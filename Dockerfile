@@ -1,4 +1,4 @@
-# 2. Fix Dokckerfile
+# 2. Fix Feature Dockerfile
 # fix einfügen
 
 ARG DOCKER_BASE
